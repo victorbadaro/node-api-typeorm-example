@@ -47,7 +47,8 @@ First things first:
 
 5. Create a `.env` file in the root directory with the same content that is in the [.env.example](./.env.example) file and fill the variables with your own data:<br />
    For example:<br />
-   ![image](https://github.com/victorbadaro/node-api-typeorm-example/assets/9096344/317c749c-e142-48b4-93ad-d875f46ceb50)
+   ![image](https://github.com/victorbadaro/node-api-typeorm-example/assets/9096344/071e3715-105c-4538-a430-4733a23bd973)
+
 
 6. Create the database by running (your postgreSQL server must be running):
    ```bash
